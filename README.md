@@ -6,6 +6,8 @@ The paper presents the description of a covert channel using the TCP header as t
 
 
 We provide an implementation of the channel in Windows OS, by mocking the behaviour of its TCP/IP stack and using Windows commands to retrieve information on the Sender machine. Indeed, the channel could be implemented with different stacks as well.
+
+
 Then, we test the channel in different network environments: the Receiver always successfully receives the correct message. Moreover, we also check if the channel is stealthy by using two Intrusion Detection Systems (Suricata and Zeek).
 
 
