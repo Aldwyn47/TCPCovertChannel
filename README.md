@@ -15,7 +15,7 @@ Finally, as far as we know, we perform statistical analysis to detect a covert c
 
 How to cite: <br />
 <pre>
-@inproceedings{pst2023bsi,
+@inproceedings{pst2023bis,
   author       = {Stefano Bistarelli and Andrea Imparato and Francesco Santini},
   title        = {A TCP-based Covert Channel with Integrity Check and Retransmission},
   booktitle    = {{PST}},
