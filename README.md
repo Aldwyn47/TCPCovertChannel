@@ -12,3 +12,15 @@ Then, we test the channel in different network environments: the Receiver always
 
 
 Finally, as far as we know, we perform statistical analysis to detect a covert channel: we adopt RITA (Real Intelligence Threat Analytics) with the purpose to understand how much our proposal can be detected as a "beaconing" tool, thus following the behaviour of some malware. We study the code of RITA and we lower the alarm score obtained by our channel below the one of false positives.
+
+How to cite:
+@inproceedings{DBLP:conf/pst/BistarelliIS23,
+  author       = {Stefano Bistarelli and
+                  Andrea Imparato and
+                  Francesco Santini},
+  title        = {A TCP-based Covert Channel with Integrity Check and Retransmission},
+  booktitle    = {{PST}},
+  pages        = {1--7},
+  publisher    = {{IEEE}},
+  year         = {2023}
+}
