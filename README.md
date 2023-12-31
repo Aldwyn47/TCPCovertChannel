@@ -13,6 +13,8 @@ Then, we test the channel in different network environments: the Receiver always
 
 Finally, as far as we know, we perform statistical analysis to detect a covert channel: we adopt RITA (Real Intelligence Threat Analytics) with the purpose of understanding how much our proposal can be detected as a "beaconing" tool, thus following the behaviour of some malware. We studied the code of RITA and lowered the alarm score obtained by our channel below one of the false positives.
 
+All .pcap files used in our research can be found on kaggle: https://kaggle.com/datasets/dba976f795460c93279d3c95649742e18afdeb3f28f3aba6c0ed00721a3ccf74
+
 How to cite: <br />
 <pre>
 @inproceedings{pst2023bis,
