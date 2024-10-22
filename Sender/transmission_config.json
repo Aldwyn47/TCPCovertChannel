@@ -1,0 +1,5 @@
+{
+    "secret_message": "Hello World",
+    "covert_receiver_address": "192.168.1.22",
+    "port": "443"
+}
